@@ -17,8 +17,9 @@ class StringController
 private:
     string string1;
     string string2;
-    void inString();
+    void stringTests();
 public:
+    StringController();
     void start();
 };
 

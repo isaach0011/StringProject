@@ -61,4 +61,8 @@ void StringController :: stringTests()
     
     cout << string1.substr(1) << endl;
     cout << string2.substr(1, 3) << endl;
+    
+    int intHolder[3];
+    double doubleHolder[3];
+    
 }
